@@ -1,4 +1,4 @@
-# top-java-libs
+# top-java-libs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 ### IDEA Support
