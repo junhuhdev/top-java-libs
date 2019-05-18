@@ -15,6 +15,7 @@
 ### Database & JPA 
 * jOOQ
 * Flybase
+* GraphQL
 
 ### Frameworks
 * Spring boot
@@ -26,3 +27,4 @@
 * [Commons-io]()
 * [Guava]()
 
+### CI
